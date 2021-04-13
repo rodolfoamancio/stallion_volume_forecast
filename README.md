@@ -1,2 +1,2 @@
-# stallion_volume_forecast
+# Stallion volume forecast
 Volume forecast using Stallion dataset and pytorch libraries
